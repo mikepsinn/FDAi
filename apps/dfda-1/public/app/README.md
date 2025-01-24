@@ -28,10 +28,12 @@ For more info about the types of data you can store and get from the API, try ou
 ## Quick Start
 
 1. Fork the project
-2. Click the `Open in Gitpod` button below in YOUR forked repo.
+2. Click the `Open in Gitpod` or `Open in Codeanywhere`button below in YOUR forked repo.
 3. Allow Gitpod to open port 5555.  It should then open the project in a new tab.
 
 [![Open in Gitpod](https://camo.githubusercontent.com/1eb1ddfea6092593649f0117f7262ffa8fbd3017/68747470733a2f2f676974706f642e696f2f627574746f6e2f6f70656e2d696e2d676974706f642e737667)](https://gitpod-referer.now.sh/api/gitpod-referer-redirect)
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/FDA-AI/FDAi/blob/7a6366ddc2858bca2d3c66e4eb3d8904f16d38fd/apps/dfda-1/public/app/README.md)
 
 ## Local Development
 
@@ -98,6 +100,7 @@ If you're using VSCode or Gitpod, right click on src/index.html and click "Open 
 ## License
 
 [![GitLicense](https://img.shields.io/badge/License-GNU-blue.svg)](https://github.com/cure-dao/curobot/blob/develop/LICENSE.md)
+
 
 # DT-API Specification
 
